@@ -1,9 +1,9 @@
 # new-repository.github.io
 1. follow 官方文档：Creatinga GitHub Pages site - GitHub Docs https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site 
 2. 命名为 xxx.github.io
-3. 不勾选 readme 文档也可以（但还是勾选了）
+3. 不勾选 readme 文档也可以创建；或勾选 readme 新建说明文档
 
-4. 在创建出的这个页面里找到页面的 Settings - Pages， 选好了点 save，你会获得一个 gh-pages 的分支（在主页和 main 并行）
+4. 在创建出的这个页面里，找到页面的 Settings - Pages， 选好了点 save，你会获得一个 gh-pages 的分支（在主页和 main 并行）
 5. 选择一个你喜欢的 theme
 6. 当 GitHub 给你一个网址的时候，你就可以成功发布它了，别人会看到你选择的 theme 和 gh-pages 分支里的 index 文档（虽然它不说（指没有明显的相应的功能按钮），但这就是现在 GitHub 的 Automatic Page Generator）
 
